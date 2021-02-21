@@ -1,0 +1,20 @@
+.jobDisplay{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.social-apply-button-container{
+    display: none;
+}
+
+.jobDisplay{
+    padding: 15px;
+    border: 2px #000 solid;
+    margin-bottom: 20px;
+}
+
+.jobdescription p:nth-child(1),
+.jobdescription p:nth-child(2)
+{
+  display: none;
+}
